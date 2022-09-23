@@ -1,0 +1,76 @@
+
+*{
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.margin-15{
+    margin: 1.5em 0;
+}
+
+.margin-40{
+    margin-top: 4rem;
+}
+
+.row{
+    display: flex;
+}
+
+.col{
+    flex: 1;
+}
+
+.main{
+    width:100%;
+    height: 100vh;
+    background-color: #306790;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+}
+
+.header-image__banner{
+    margin: 3rem 0;
+}
+
+.content{
+    width: 80rem;
+    background-color: #fff;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 3.2rem
+}
+
+.content span{
+    color: #2E688E;
+    font-weight: bold;
+}
+
+.content p{
+    color: #2D6692;
+    font-size: 1.6rem;
+}
+
+.width-90{
+    width: 90%;
+}
+
+.content .content__link{
+    font-size: 1.2rem;
+}
+
+.content__link a{
+    color: #CE0100;
+}
+
+.content .content__footer{
+    margin-top: 2rem;
+    color: #333
+}
+
+
+
+
